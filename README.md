@@ -3,7 +3,7 @@ SpringBoot MemberShip Core Project ( OAuth2 + SSO + JPA(Hibernate) + DATARest ) 
 
 프로젝트 개요
 ---------------------
-본 프로젝트는 ***외부 social login***도 지원하면서 ***자체적인 회원관리***도 가능한 구조이다.
+본 프로젝트는 *외부 social login* 도 지원하면서 *자체적인 회원관리* 도 가능한 구조이다.
 
 프로젝트 생성하기
 ---------------------
